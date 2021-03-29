@@ -1,5 +1,5 @@
 
-describe('Typos Suite', () => 
+describe('Typos Page test Suite', () => 
 {
     //Verify Page title is correct
     it('verify Page Title', () => 
